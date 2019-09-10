@@ -1,0 +1,2 @@
+# Trainable_Fourier
+Trainable_Fourier_NN
